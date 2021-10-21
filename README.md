@@ -1,3 +1,3 @@
 # NestedModule
 
-Base State + 0
+Base State + 2
